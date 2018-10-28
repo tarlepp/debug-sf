@@ -19,7 +19,7 @@
 
 {% block javascripts %}
 
-    <script src="{{ asset('build/app.js') }}"></script>
+    <script src="{{ app.request.schemeAndHttpHost ~ app.request.baseUrl ~ asset('build/app.js') }}"></script>
 
 
 {% endblock %}
