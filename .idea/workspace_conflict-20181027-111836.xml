@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f1436d2-b518-47a1-871d-b097a5841bdb" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/symfony2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/symfony2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/doctrine_migrations.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/doctrine_migrations.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/maker.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/maker.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/twig.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/twig.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes/annotations.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes/annotations.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/Arrow-down.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/Arrow-down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/Arrow-up.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/Arrow-up.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/Thumb-down.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/Thumb-down.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/Thumb-up.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/Thumb-up.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/arrow_more.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/arrow_more.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/arrow_more_up.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/arrow_more_up.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/background.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/background.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/blank.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/blank.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/donate/btc-c.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/donate/btc-c.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/donate/btc.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/donate/btc.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/donate/ether.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/donate/ether.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/donate/ltc.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/donate/ltc.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/flags.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/flags.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/loading.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/loginIcon-black.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/loginIcon-black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/loginIcon-green.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/loginIcon-green.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/loginIcon-red.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/loginIcon-red.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/loginIcon-white.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/loginIcon-white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/menuIcon-black.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/menuIcon-black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/menuIcon-red.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/menuIcon-red.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/menuIcon-white.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/menuIcon-white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/mountain.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/mountain.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/nav-arrow-L.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/nav-arrow-L.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/nav-arrow-R.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/nav-arrow-R.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/nav_arrow_left.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/nav_arrow_left.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/nav_arrow_right.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/nav_arrow_right.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/searchIcon-black.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/searchIcon-black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/searchIcon-red.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/searchIcon-red.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/layout/searchIcon-white.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/layout/searchIcon-white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/android-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/android-icon-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/android-icon-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/android-icon-192x192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/android-icon-36x36.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/android-icon-36x36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/android-icon-48x48.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/android-icon-48x48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/android-icon-72x72.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/android-icon-72x72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/android-icon-96x96.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/android-icon-96x96.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/apple-icon-114x114.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/apple-icon-114x114.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/apple-icon-120x120.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/apple-icon-120x120.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/apple-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/apple-icon-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/apple-icon-152x152.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/apple-icon-152x152.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/apple-icon-180x180.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/apple-icon-180x180.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/apple-icon-57x57.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/apple-icon-57x57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/apple-icon-60x60.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/apple-icon-60x60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/apple-icon-72x72.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/apple-icon-72x72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/apple-icon-76x76.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/apple-icon-76x76.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/apple-icon-precomposed.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/apple-icon-precomposed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/apple-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/apple-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/browserconfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/favicon-16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/favicon-96x96.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/favicon-96x96.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/ms-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/ms-icon-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/ms-icon-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/ms-icon-150x150.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/ms-icon-310x310.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/ms-icon-310x310.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/siteIcon/ms-icon-70x70.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/siteIcon/ms-icon-70x70.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/social/icon-fb-64.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/social/icon-fb-64.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/social/icon-insta-64.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/social/icon-insta-64.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/social/icon-pinkbike-64.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/social/icon-pinkbike-64.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/social/icon-trailforks-64.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/social/icon-trailforks-64.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/social/icon-twitter-64.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/social/icon-twitter-64.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/social/instagram_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/social/instagram_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/social/youtube_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/img/social/youtube_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/flags.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/css/flags.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/magnific-popup.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/css/magnific-popup.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/signupForm.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/css/signupForm.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/bikecard/bikecard-comment.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/bikecard/bikecard-comment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/bikecard/bikecard-reviews.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/bikecard/bikecard-reviews.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/bikecard/bikecard-shop.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/bikecard/bikecard-shop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/bikecard/bikecard-usermedia.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/bikecard/bikecard-usermedia.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/bikecard/bikecard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/bikecard/bikecard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/footer/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/friends/friendMgmt.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserAreaBundle/js/friends/friendMgmt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/interface/interface.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/interface.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/interface/interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/interface.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/interface/menuAJAX.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/menuAJAX.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/interface/menuAJAX.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/menuAJAX.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/interface/user-area.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/user-area.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/interface/user-area.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/user-area.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/streams/blogs-comments.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/streams/blogs-comments.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/streams/blogs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/streams/blogs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/streams/latestBikes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/streams/latestBikes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/streams/news-comments.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/streams/news-comments.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/streams/news-stream.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/streams/news-stream.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/user/sha512.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/BackBundle/js/sha512.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/user/sha512.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/BackBundle/js/sha512.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/user/userMgmt.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/BackBundle/js/userMgmt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/user/userMgmt.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/BackBundle/js/userMgmt.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/userArea/userarea-comparebikes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserAreaBundle/js/userarea-comparebikes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/userArea/userarea-contribute.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserAreaBundle/js/userarea-contribute.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/userArea/userarea-messages.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserAreaBundle/js/userarea-messages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/userArea/userarea-newbikeform.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserAreaBundle/js/userarea-newbikeform.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/userArea/userarea-personalBikes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserAreaBundle/js/userarea-personalBikes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/userArea/userarea-search.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserAreaBundle/js/userarea-search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/userArea/userarea-userinfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserAreaBundle/js/userarea-userinfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/userCard/userCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/userCard/userCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/util/BBeditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/util/BBeditor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/util/BBeditor.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/util/BBeditor.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/util/BrowserDetect.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/util/BrowserDetect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/util/jquery.magnific-popup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/util/jquery.magnific-popup.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/util/statusUpdate.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/util/statusUpdate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/util/youtube_item.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/js/util/youtube_item.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/json/countries.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FrontBundle/Controller/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/Controller/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Migrations/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/BackBundle/Migrations/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Migrations/Version20181012173508.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Migrations/Version20181012174748.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Migrations/Version20181012175146.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Migrations/Version20181012175501.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Migrations/Version20181012175612.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Migrations/Version20181012181355.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Migrations/Version20181012185011.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Migrations/Version20181015051222.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Migrations/Version20181015051607.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Migrations/Version20181015184316.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/UserArea/advancedSearch.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserAreaBundle/views/UserArea/advancedSearch.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/UserArea/blogs.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserAreaBundle/views/UserArea/blogs.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/UserArea/compareBikes.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserAreaBundle/views/UserArea/compareBikes.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/UserArea/contribute.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserAreaBundle/views/UserArea/contribute.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/UserArea/newBikeForm.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserAreaBundle/views/UserArea/newBikeForm.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/UserArea/personalBikes.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserAreaBundle/views/UserArea/personalBikes.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/UserArea/userInfos.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserAreaBundle/views/UserArea/userInfos.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/UserArea/userMessages.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserAreaBundle/views/UserArea/userMessages.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/bikeCard/bikeData.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/bikeCard/bikeData.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/bikeCard/bikeUserMedia.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/bikeCard/bikeUserMedia.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/bikeCard/comments.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/bikeCard/comments.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/bikeCard/reviews.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/bikeCard/reviews.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/bikeCard/shop.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/bikeCard/shop.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/bikeSearch/bikeCard.php.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/bikeSearch/bikeCard.php.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/bikeSearch/listBikesByBrand.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/bikeSearch/listBikesByBrand.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/bikeSearch/listBikesByComponent.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/bikeSearch/listBikesByComponent.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/bikeSearch/listBikesByTech.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/bikeSearch/listBikesByTech.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/bikeSearch/searchBarResults.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/bikeSearch/searchBarResults.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/bikeSearch/searchListingBrand.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/bikeSearch/searchListingBrand.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/bikeSearch/searchListingCategory.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/bikeSearch/searchListingCategory.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/bikeSearch/searchListingComponent.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/bikeSearch/searchListingComponent.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/bikeSearch/searchListingTech.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/bikeSearch/searchListingTech.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/email/emailConfirmRegistration.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/email/emailConfirmRegistration.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/email/emailRecovery.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/email/emailRecovery.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/footer/about.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/footer/about.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/footer/contact.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/footer/contact.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/footer/donate.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/footer/donate.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/footer/faq.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/footer/faq.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/footer/footer.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/footer/footer.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/footer/legal.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/footer/legal.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/home/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home/blank.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/home/blank.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home/homepage.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/home/homepage.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home/userArea.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/home/userArea.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/streams/blogSingle.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/streams/blogSingle.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/streams/listingBlogs.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/streams/listingBlogs.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/streams/listingLatestBikes.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/streams/listingLatestBikes.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/streams/listingNews.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/streams/listingNews.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/streams/newsSingle.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/streams/newsSingle.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/userCard/userCard.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/FrontBundle/views/userCard/userCard.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/userMgmt/accountActivated.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserAreaBundle/views/userMgmt/accountActivated.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/userMgmt/accountActivatedError.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserAreaBundle/views/userMgmt/accountActivatedError.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/userMgmt/recoverPassword.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserAreaBundle/views/userMgmt/recoverPassword.html.twig" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1908167540">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="29" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.5" value="5" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="4" />
+          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="29" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="30" />
+          <entry key="dist" value="1" />
+          <entry key="env" value="2" />
+          <entry key="html" value="8" />
+          <entry key="js" value="92" />
+          <entry key="json" value="11" />
+          <entry key="md" value="2" />
+          <entry key="php" value="1160" />
+          <entry key="ts" value="44" />
+          <entry key="twig" value="299" />
+          <entry key="xml" value="1" />
+          <entry key="yaml" value="54" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key=".env file" value="1" />
+          <entry key="CSS" value="30" />
+          <entry key="HTML" value="8" />
+          <entry key="JSON" value="11" />
+          <entry key="JavaScript" value="92" />
+          <entry key="Markdown" value="2" />
+          <entry key="PHP" value="1160" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Twig" value="299" />
+          <entry key="TypeScript" value="44" />
+          <entry key="XML" value="1" />
+          <entry key="YAML" value="54" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="1653" />
+          <entry key="dummy" value="146" />
+          <entry key="env" value="14" />
+          <entry key="js" value="8905" />
+          <entry key="json" value="9" />
+          <entry key="php" value="52680" />
+          <entry key="ts" value="4638" />
+          <entry key="twig" value="24437" />
+          <entry key="xml" value="11" />
+          <entry key="yaml" value="693" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key=".env file" value="14" />
+          <entry key="CSS" value="1654" />
+          <entry key="HTML" value="161" />
+          <entry key="JSON" value="9" />
+          <entry key="JavaScript" value="8904" />
+          <entry key="PHP" value="52540" />
+          <entry key="PLAIN_TEXT" value="146" />
+          <entry key="Twig" value="24437" />
+          <entry key="TypeScript" value="4617" />
+          <entry key="XML" value="11" />
+          <entry key="YAML" value="693" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class">
+        <counts>
+          <entry key="PHP Class.type" value="35" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FrontBundle/Controller/HomeController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
+              <folding>
+                <element signature="e#2243#2275#1#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/packages/twig.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>editBikeUid</find>
+      <find>generate</find>
+      <find>now</find>
+      <find>$time</find>
+      <find>referencedColumnName</find>
+      <find>$timest</find>
+      <find>name=&quot;timestamp&quot;, type</find>
+      <find>$timestamp</find>
+      <find>construct</find>
+      <find>datetime</find>
+      <find>private $timestamp</find>
+      <find>= '';</find>
+      <find>, nullable=false</find>
+      <find>, nullable=true</find>
+      <find>AbstractRecursivePass</find>
+      <find>App\Controller\userMgmt\SessionResumeController</find>
+      <find>namespace App\Entity;</find>
+      <find>$PROJECT_DIR$/src/Entity</find>
+      <find>App\Repository;</find>
+      <find>use App\Entity\</find>
+      <find>use App\Entity\ApiBundle\</find>
+      <find>App\Repository\</find>
+      <find>App\Controller\userArea</find>
+      <find>namespace App\ApiBundle\Entity</find>
+      <find>namespace App\ApiBundle\Repository</find>
+      <find>use App\ApiBundle\Entity\</find>
+      <find>use App\ApiBundle\</find>
+      <find>App\ApiBundle</find>
+      <find>BackBundle</find>
+      <find>searchCategory</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>strpos($media[&quot;mediaUpvoters&quot;], $activeuser) !== false &amp;&amp; strpos($media[&quot;mediaDownvoters&quot;], $activeuser) !== false</replace>
+      <replace>data-uod='down' data-bike='$bike'</replace>
+      <replace>data-uod='up' data-bike='$bike'</replace>
+      <replace>bikeMediaImages</replace>
+      <replace>$error</replace>
+      <replace>upmDescription</replace>
+      <replace>bikesweride</replace>
+      <replace>upmLinkImg</replace>
+      <replace>subOfUID</replace>
+      <replace>Bikesweride</replace>
+      <replace>$user</replace>
+      <replace>'id'</replace>
+      <replace>id</replace>
+      <replace>bc.brand.name</replace>
+      <replace>bc.brand.country</replace>
+      <replace>bc.category.name</replace>
+      <replace>;</replace>
+      <replace />
+      <replace>namespace App\ApiBundle\Entity;</replace>
+      <replace>App\ApiBundle\Repository;</replace>
+      <replace>use App\Entity\ApiBundle\</replace>
+      <replace>use App\ApiBundle\Entity\</replace>
+      <replace>App\ApiBundle\Repository\</replace>
+      <replace>App\UserAreaBundle\Controller</replace>
+      <replace>ApiBundle</replace>
+      <replace>namespace App\BackBundle\Entity</replace>
+      <replace>namespace App\BackBundle\Repository</replace>
+      <replace>use App\BackBundle\Entity\</replace>
+      <replace>use App\BackBundle\</replace>
+      <replace>App\BackBundle</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/BackBundle/Controller/comments/bikeCardCommentsController.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/UserAreaBundle/UserAreaBundle.php" />
+        <option value="$PROJECT_DIR$/src/PublicBundle/PublicBundle.php" />
+        <option value="$PROJECT_DIR$/src/ApiBundle/ApiBundle.php" />
+        <option value="$PROJECT_DIR$/src/AuthBundle/Controller/UserCheckController.php" />
+        <option value="$PROJECT_DIR$/src/AuthBundle/Controller/UserMgmtController.php" />
+        <option value="$PROJECT_DIR$/src/Controller/home/HomeController.php" />
+        <option value="$PROJECT_DIR$/src/AuthBundle/Controller/SessionResumeController.php" />
+        <option value="$PROJECT_DIR$/src/ApiBundle/Entity/Bike.php" />
+        <option value="$PROJECT_DIR$/var/cache/dev/srcDevDebugProjectContainer.xml" />
+        <option value="$PROJECT_DIR$/src/ApiBundle/Repository/BikeCategoryRepository.php" />
+        <option value="$PROJECT_DIR$/src/StatBundle/StatBundle.php" />
+        <option value="$PROJECT_DIR$/src/StatBundle/Service/StatService.php" />
+        <option value="$PROJECT_DIR$/src/UserAreaBundle/Controller/AdvancedSearchController.php" />
+        <option value="$PROJECT_DIR$/src/UserAreaBundle/Controller/ContributeController.php" />
+        <option value="$PROJECT_DIR$/src/UserAreaBundle/Controller/FavouriteBikesController.php" />
+        <option value="$PROJECT_DIR$/src/UserAreaBundle/Controller/PersonalbikesController.php" />
+        <option value="$PROJECT_DIR$/src/FrontBundle/Controller/footer/FooterController.php" />
+        <option value="$PROJECT_DIR$/src/FrontBundle/Controller/FooterController.php" />
+        <option value="$PROJECT_DIR$/config/packages/doctrine.yaml" />
+        <option value="$PROJECT_DIR$/config/bundles.php" />
+        <option value="$PROJECT_DIR$/src/BackBundle/BackBundle.php" />
+        <option value="$PROJECT_DIR$/src/BackBundle/Entity/Bike.php" />
+        <option value="$PROJECT_DIR$/src/BackBundle/Repository/BikeCommentRepository.php" />
+        <option value="$PROJECT_DIR$/src/BackBundle/Controller/bike/BikeCardController.php" />
+        <option value="$PROJECT_DIR$/src/BackBundle/Controller/bike/BikeQueryController.php" />
+        <option value="$PROJECT_DIR$/src/BackBundle/Controller/bike/BikeSubmissionsController.php" />
+        <option value="$PROJECT_DIR$/src/BackBundle/Controller/comments/bikeCardCommentsController.php" />
+        <option value="$PROJECT_DIR$/src/BackBundle/Controller/comments/NewsCommentsController.php" />
+        <option value="$PROJECT_DIR$/src/BackBundle/Controller/comments/BlogCommentsController.php" />
+        <option value="$PROJECT_DIR$/src/BackBundle/Controller/medias/bikeUserMediasController.php" />
+        <option value="$PROJECT_DIR$/src/BackBundle/Controller/reviews/bikeReviewsController.php" />
+        <option value="$PROJECT_DIR$/src/BackBundle/Controller/upload/UploadController.php" />
+        <option value="$PROJECT_DIR$/src/BackBundle/Controller/util/HTMLPurifierController.php" />
+        <option value="$PROJECT_DIR$/src/BackBundle/Controller/util/ImageEncoderController.php" />
+        <option value="$PROJECT_DIR$/src/BackBundle/Controller/util/MediaValidator.php" />
+        <option value="$PROJECT_DIR$/src/BackBundle/Controller/util/TimestampMaker.php" />
+        <option value="$PROJECT_DIR$/src/BackBundle/Controller/util/UIDMaker.php" />
+        <option value="$PROJECT_DIR$/src/FrontBundle/Controller/streams/BlogsController.php" />
+        <option value="$PROJECT_DIR$/src/FrontBundle/Controller/streams/LatestBikesController.php" />
+        <option value="$PROJECT_DIR$/src/FrontBundle/Controller/streams/NewsController.php" />
+        <option value="$PROJECT_DIR$/src/StatBundle/Controller/StatisticController.php" />
+        <option value="$PROJECT_DIR$/src/UserAreaBundle/Controller/friends/friendsController.php" />
+        <option value="$PROJECT_DIR$/src/UserAreaBundle/Controller/userCard/userCardController.php" />
+        <option value="$PROJECT_DIR$/src/Controller/HomeController.php" />
+        <option value="$PROJECT_DIR$/config/services.yaml" />
+        <option value="$PROJECT_DIR$/config/routes.yaml" />
+        <option value="$PROJECT_DIR$/config/routes/annotations.yaml" />
+        <option value="$PROJECT_DIR$/config/packages/doctrine_migrations.yaml" />
+        <option value="$PROJECT_DIR$/config/packages/maker.yaml" />
+        <option value="$PROJECT_DIR$/config/packages/twig.yaml" />
+        <option value="$PROJECT_DIR$/src/FrontBundle/Controller/HomeController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/web-server-bundle" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/profiler-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/orm-pack" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/vendor/symfony/inflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/vendor/ocramius/package-versions" />
+      <path value="$PROJECT_DIR$/vendor/ocramius/proxy-manager" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-code" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-eventmanager" />
+      <path value="$PROJECT_DIR$/vendor/symfony/templating" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/vendor/exercise/htmlpurifier-bundle" />
+      <path value="$PROJECT_DIR$/vendor/beberlei/DoctrineExtensions" />
+      <path value="$PROJECT_DIR$/vendor/gedmo/doctrine-extensions" />
+      <path value="$PROJECT_DIR$/vendor/behat/transliterator" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/vendor/stof/doctrine-extensions-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/webpack-encore-pack" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>WebpackConfigHighlighting</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="FrontBundle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="FrontBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="uploads" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="11.0.0" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="fr.adrienbrault.idea.symfony2plugin.ui.TwigSettingsForm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="typescript-compiler-editor-notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/UserAreaBundle" />
+      <recent name="$PROJECT_DIR$/templates/email" />
+      <recent name="$PROJECT_DIR$/src/Entity" />
+      <recent name="$PROJECT_DIR$/src/Entity/EntitySAVE" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/UserAreaBundle/views" />
+      <recent name="$PROJECT_DIR$/src/FrontBundle/views" />
+      <recent name="$PROJECT_DIR$/src/UserAreaBundle" />
+      <recent name="$PROJECT_DIR$/src/FrontBundle" />
+      <recent name="$PROJECT_DIR$/src/BackBundle/js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.UserCheckController.php">
+    <configuration name="UserCheckController.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/site/AuthBundle/Controller/UserCheckController.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="UserMgmtController.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/site/AuthBundle/Controller/UserMgmtController.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.UserMgmtController.php" />
+      <item itemvalue="JavaScript Debug.UserCheckController.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.UserCheckController.php" />
+        <item itemvalue="JavaScript Debug.UserMgmtController.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f1436d2-b518-47a1-871d-b097a5841bdb" name="Default" comment="" />
+      <created>1533720983397</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533720983397</updated>
+      <workItem from="1533720985840" duration="192000" />
+      <workItem from="1533721228519" duration="4961000" />
+      <workItem from="1533899187227" duration="1333000" />
+      <workItem from="1533903321563" duration="26992000" />
+      <workItem from="1533980544945" duration="34686000" />
+      <workItem from="1534075754854" duration="131275000" />
+      <workItem from="1534597218603" duration="50882000" />
+      <workItem from="1534757896615" duration="66282000" />
+      <workItem from="1534942945561" duration="212313000" />
+      <workItem from="1535629678364" duration="158885000" />
+      <workItem from="1537733282481" duration="36000" />
+      <workItem from="1537733355018" duration="282000" />
+      <workItem from="1537783759358" duration="616000" />
+      <workItem from="1537798757505" duration="1893000" />
+      <workItem from="1537883617939" duration="142000" />
+      <workItem from="1538739271023" duration="1456000" />
+      <workItem from="1538767199641" duration="46682000" />
+      <workItem from="1539178411474" duration="1313000" />
+      <workItem from="1539196794572" duration="16092000" />
+      <workItem from="1539583519774" duration="5306000" />
+      <workItem from="1539612742877" duration="8717000" />
+      <workItem from="1539765864990" duration="48000" />
+      <workItem from="1539767929824" duration="1942000" />
+      <workItem from="1539846709112" duration="756000" />
+      <workItem from="1539892614689" duration="3229000" />
+      <workItem from="1540392260232" duration="4048000" />
+      <workItem from="1540582256842" duration="5669000" />
+      <workItem from="1540588516947" duration="6404000" />
+      <workItem from="1540629216707" duration="2045000" />
+      <workItem from="1540631532563" duration="383000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="794860000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25965664" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32920793" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32920793" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.27227724" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.2450495" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32920793" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_psr4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="15" column="83" lean-forward="true" selection-start-line="15" selection-start-column="83" selection-end-line="15" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_real.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_static.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="305" column="22" selection-start-line="305" selection-start-column="22" selection-end-line="305" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_namespaces.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_files.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/packages/doctrine.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/packages/stof_doctrine_extensions.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BackBundle/Repository/BikeCommentRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BackBundle/Entity/Bike.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BackBundle/BackBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_classmap.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BackBundle/Controller/bike/BikeCardController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BackBundle/Controller/bike/BikeSubmissionsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BackBundle/Controller/comments/NewsCommentsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BackBundle/Controller/comments/bikeCardCommentsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BackBundle/Controller/comments/BlogCommentsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BackBundle/Controller/medias/bikeUserMediasController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BackBundle/Controller/reviews/bikeReviewsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BackBundle/Controller/upload/UploadController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BackBundle/Controller/util/HTMLPurifierController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BackBundle/Controller/util/ImageEncoderController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BackBundle/Controller/util/MediaValidator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BackBundle/Controller/util/TimestampMaker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BackBundle/Controller/util/UIDMaker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FrontBundle/Controller/FooterController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FrontBundle/Controller/streams/NewsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FrontBundle/Controller/streams/LatestBikesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FrontBundle/Controller/streams/BlogsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UserAreaBundle/Controller/userCard/userCardController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UserAreaBundle/Controller/friends/friendsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StatBundle/Controller/StatisticController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UserAreaBundle/Controller/AdvancedSearchController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes/dev/twig.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BackBundle/Controller/bike/BikeQueryController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BackBundle/Migrations/Version20181012173508.php" />
+    <entry file="file://$PROJECT_DIR$/config/packages/doctrine_migrations.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/services.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes/annotations.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/bundles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FrontBundle/js/bikecard/bikecard-usermedia.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1111" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UserAreaBundle/js/friends/friendMgmt.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FrontBundle/js/userCard/userCard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-544" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/json/countries.json" />
+    <entry file="file://$PROJECT_DIR$/src/FrontBundle/json/countries.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3489" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/packages/twig_conflict-20181027-102920.yaml" />
+    <entry file="file://$PROJECT_DIR$/config/packages/maker.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FrontBundle/Frontbundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FrontBundle/views/home/homepage.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="87" column="8" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FrontBundle/Controller/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+          <folding>
+            <element signature="e#2243#2275#1#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/packages/twig.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

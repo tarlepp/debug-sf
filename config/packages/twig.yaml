@@ -1,0 +1,7 @@
+twig:
+
+    paths:
+        '%kernel.project_dir%/src/FrontBundle/views' : FrontBundle
+
+    debug: '%kernel.debug%'
+    strict_variables: '%kernel.debug%'

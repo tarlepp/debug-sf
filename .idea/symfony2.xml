@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Symfony2PluginSettings">
+    <option name="pathToTranslation" value="var/cache/dev/translations" />
+    <option name="directoryToWeb" value="public" />
+    <option name="pluginEnabled" value="true" />
+    <option name="lastServiceGeneratorLanguage" value="yaml" />
+    <option name="twigNamespaces">
+      <list>
+        <twig_namespace custom="true" namespace="FrontBundle" namespaceType="ADD_PATH" path="src/FrontBundle/views" />
+        <twig_namespace custom="true" namespace="FrontBundle" namespaceType="BUNDLE" path="src/FrontBundle" />
+        <twig_namespace custom="true" namespace="UserAreaBundle" namespaceType="ADD_PATH" path="src/UserAreaBundle/views" />
+        <twig_namespace custom="true" namespace="UserAreaBundle" namespaceType="BUNDLE" path="src/UserAreaBundle" />
+      </list>
+    </option>
+  </component>
+</project>

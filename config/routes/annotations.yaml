@@ -1,0 +1,3 @@
+FrontBundle:
+    resource: ../../src/FrontBundle/Controller/
+    type: annotation
